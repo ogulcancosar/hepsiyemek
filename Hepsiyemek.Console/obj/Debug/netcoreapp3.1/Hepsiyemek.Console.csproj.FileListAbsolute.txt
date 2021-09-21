@@ -1,0 +1,4 @@
+C:\Users\Olcsan-ErolK\source\repos\Hepsiyemek\Hepsiyemek.Console\obj\Debug\netcoreapp3.1\Hepsiyemek.Console.csprojAssemblyReference.cache
+C:\Users\Olcsan-ErolK\source\repos\Hepsiyemek\Hepsiyemek.Console\obj\Debug\netcoreapp3.1\Hepsiyemek.Console.AssemblyInfoInputs.cache
+C:\Users\Olcsan-ErolK\source\repos\Hepsiyemek\Hepsiyemek.Console\obj\Debug\netcoreapp3.1\Hepsiyemek.Console.AssemblyInfo.cs
+C:\Users\Olcsan-ErolK\source\repos\Hepsiyemek\Hepsiyemek.Console\obj\Debug\netcoreapp3.1\Hepsiyemek.Console.csproj.CoreCompileInputs.cache
